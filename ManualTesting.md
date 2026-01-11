@@ -99,34 +99,6 @@
 ##### URS : User Requirement Specificaiton
 ##### CRS : Customer Requirement Specification
 ##### SRS : Software Requirement Specification
-##### HLD : High Level Documents
-##### LLD : Low level Documents
-
-#### Static testing : 
-	testing the project related docuemnts into the form of review, walkthough, inpspection is called as "static testing".
-
-#### Unit testing : 
-	Testing the single unit and componenets of the software that is called as unit testing.
-
-#### White box testing : 
-	White box testing means testing the software with full visibility of the source code, focusing on internal lagic, paths and structure rather than just input and output behavious. 
-
-#### Black box testing :
-	Black box testing means testing software without knowldge of internal code and only check the functionality of software.
-
-#### Verification : 
-	- Verifaction answer's to the "are we building the product right?" 
-	- Checking the product is building according to the customer requirements, specification, design, and plan.
-	- In includes review, inspection, and walkthrought 
-
-#### Validation : 
-	- Veladation answer's to "Are we building the right procuct?"
-	- It's check the final product meets to the actual customer requiremet or not.
-	- It includes testing, simulations
-
-
-
-
 
 -----------------------------------------------------------------------
 ###### **Author : Mr. Shubham Balavant Randive **
